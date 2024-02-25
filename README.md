@@ -40,3 +40,12 @@ It displays the current state of the word with underscores for unguessed letters
 The player has a limited number of attempts (6 in this case) to guess the word.<br>
 If the player guesses the word or runs out of attempts, the game ends.
 </details>
+
+<details>
+<summary> 6. Basic Website Scraper. </summary>
+Explanation:<br>
+The Java program uses the `jsoup` library to connect to 'https://www.google.com' and parse its HTML.<br>
+It selects and prints the `href` attribute of all links (`a` tags) from the Google homepage.
+</details>
+
+
