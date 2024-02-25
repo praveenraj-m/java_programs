@@ -22,3 +22,12 @@ The Java program uses an `ArrayList` to store tasks and a `Scanner` for user inp
 A menu is displayed with options to add tasks, view tasks, or quit the app.<br>
 The app continues running until the user chooses to quit.
 </details>
+
+<details>
+<summary> 4. Weather App. </summary>
+Explanation:<br>
+The program prompts the user to enter the city name and constructs a URL to fetch weather data using the OpenWeatherMap API.<br>
+It sends an HTTP GET request using `HttpURLConnection` and processes the JSON response.<br>
+If the request is successful (status code 200), it extracts and displays the current temperature and weather description.<br>
+In case of an error, it prints an error message.
+</details>
