@@ -69,3 +69,10 @@ Explanation:<br>
 The Java program demonstrates a simple currency converter with predefined conversion rates using a HashMap.<br>
 It converts 100 USD to INR along with other conversion rates.
 </details>
+
+<details>
+<summary>10. Random Password Generator. </summary>
+Explanation:<br>
+The Java program defines a function `generateRandomPassword` that generates a random password of a specified length using letters, digits, and special characters.<br>
+The password is then printed.
+</details>
