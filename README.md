@@ -61,3 +61,11 @@ Explanation:<br>
 The Java program takes a sentence as input and iterates through each character, counting the number of letters and digits.<br>
 It then prints the counts of letters and digits in the entered sentence.
 </details>
+
+
+<details>
+<summary> 9. Currency Converter. </summary>
+Explanation:<br>
+The Java program demonstrates a simple currency converter with predefined conversion rates using a HashMap.<br>
+It converts 100 USD to INR along with other conversion rates.
+</details>
