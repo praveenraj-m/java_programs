@@ -48,4 +48,10 @@ The Java program uses the `jsoup` library to connect to 'https://www.google.com'
 It selects and prints the `href` attribute of all links (`a` tags) from the Google homepage.
 </details>
 
+<details>
+<summary> 7. Basic File Handling (Java). </summary>
+Explanation:<br>
+The Java program demonstrates basic file handling operations - writing content to a file and reading content from a file.<br>
+It writes a sample line to a file, then reads and prints the content of the file.
+</details>
 
