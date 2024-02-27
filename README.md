@@ -49,7 +49,7 @@ It selects and prints the `href` attribute of all links (`a` tags) from the Goog
 </details>
 
 <details>
-<summary> 7. Basic File Handling (Java). </summary>
+<summary> 7. Basic File Handling. </summary>
 Explanation:<br>
 The Java program demonstrates basic file handling operations - writing content to a file and reading content from a file.<br>
 It writes a sample line to a file, then reads and prints the content of the file.
