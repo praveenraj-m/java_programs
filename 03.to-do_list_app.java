@@ -12,7 +12,7 @@ public class ToDoListApp {
         // Main program loop
         while (true) {
             // Display menu options
-            System.out.println("1. Add Task");
+            System.out.println("\n1. Add Task");
             System.out.println("2. View Tasks");
             System.out.println("3. Quit");
 
@@ -23,13 +23,13 @@ public class ToDoListApp {
             switch (choice) {
                 case "1":
                     // Add a new task to the list
-                    System.out.print("Enter a new task: ");
+                    System.out.print("\nEnter a new task: ");
                     String task = scanner.nextLine();
                     tasks.add(task);
                     break;
                 case "2":
                     // View all tasks in the list
-                    System.out.println("Tasks:");
+                    System.out.println("\nTasks:");
                     for (int i = 0; i < tasks.size(); i++) {
                         System.out.println((i + 1) + ". " + tasks.get(i));
                     }
