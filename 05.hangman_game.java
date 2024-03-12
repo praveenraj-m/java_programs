@@ -3,7 +3,7 @@ import java.util.Random;
 import java.util.Scanner;
 import java.util.Set;
 
-public class hangman {
+public class hangman_game {
     public static void main(String[] args) {
         // List of words to choose from
         String[] words = {"python", "java", "programming", "computer", "hangman", "developer"};
