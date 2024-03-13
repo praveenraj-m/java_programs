@@ -31,7 +31,7 @@ It sends an HTTP GET request using `HttpURLConnection` and processes the JSON re
 If the request is successful (status code 200), it extracts and displays the current temperature and weather description.<br>
 In case of an error, it prints an error message.<br>
 <summary>Important: </summary>
-To make the code work, add the 'jsoup.jar' files to the referenced libraries of Java Project.
+To make the code work, add the 'JSONObject.jar' files to the referenced libraries of Java Project.
 </details>
 
 <details>
