@@ -45,7 +45,9 @@ If the player guesses the word or runs out of attempts, the game ends.
 <summary> 6. Basic Website Scraper. </summary>
 Explanation:<br>
 The Java program uses the `jsoup` library to connect to 'https://www.google.com' and parse its HTML.<br>
-It selects and prints the `href` attribute of all links (`a` tags) from the Google homepage.
+It selects and prints the `href` attribute of all links (`a` tags) from the Google homepage.<br>
+<summary>Important: </summary>
+To make the code work, add the 'jsoup.jar' files to the referenced libraries of Java Project.
 </details>
 
 <details>
