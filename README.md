@@ -29,7 +29,9 @@ Explanation:<br>
 The program prompts the user to enter the city name and constructs a URL to fetch weather data using the OpenWeatherMap API.<br>
 It sends an HTTP GET request using `HttpURLConnection` and processes the JSON response.<br>
 If the request is successful (status code 200), it extracts and displays the current temperature and weather description.<br>
-In case of an error, it prints an error message.
+In case of an error, it prints an error message.<br>
+<summary>Important: </summary>
+To make the code work, add the 'jsoup.jar' files to the referenced libraries of Java Project.
 </details>
 
 <details>
